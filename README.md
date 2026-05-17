@@ -10,8 +10,6 @@
 🐍 Apaixonado por Python e automações  
 📚 Sempre estudando novas tecnologias e buscando evoluir como desenvolvedor  
 
----
-
 ## 🕹️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
