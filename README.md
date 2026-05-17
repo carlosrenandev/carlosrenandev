@@ -2,7 +2,7 @@
 
 <img align="right" alt="Gaming GIF" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Sobre mim
+# 🚀 Sobre mim
 
 💻 Desenvolvedor Full Stack  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
@@ -45,7 +45,7 @@
 # 🎯 Projetos em destaque
 
 ## 📰 Projeto Blog Python Django
-Sistema de blog desenvolvido com Django utilizando boas práticas de desenvolvimento web.
+Um blog desenvolvido com Django, com sistema de autenticação de usuários e criação de posts pela comunidade.
 
 🔗 Repositório:  
 👉 https://github.com/carlosrenandev/projeto-blog-python-django
@@ -53,7 +53,9 @@ Sistema de blog desenvolvido com Django utilizando boas práticas de desenvolvim
 ---
 
 ## 🍔 Renan Burger Delivery
-Sistema de delivery desenvolvido para gerenciamento de pedidos e experiência do usuário.
+Projeto de hamburgueria virtual desenvolvido com HTML, CSS, JavaScript e Tailwind CSS.
+
+O sistema permite visualizar o cardápio, adicionar itens ao carrinho, escolher forma de entrega e finalizar pedidos diretamente pelo WhatsApp.
 
 🔗 Repositório:  
 👉 https://github.com/carlosrenandev/renan-burger-delivery
