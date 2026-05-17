@@ -62,29 +62,6 @@ Sistema de delivery desenvolvido para gerenciamento de pedidos e experiência do
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<a href="https://github.com/carlosrenandev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosrenandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrenandev&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=carlosrenandev&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
 ## 🎮 Status
 
 ```txt
