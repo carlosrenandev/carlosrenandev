@@ -24,6 +24,8 @@
 
 <img align="center" alt="Tailwind" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 
+<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
 </div>
 
 ---
