@@ -2,7 +2,7 @@
 
 <img align="right" alt="Gaming GIF" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 Sobre mim
+🚀 Sobre mim
 
 💻 Desenvolvedor Full Stack  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
